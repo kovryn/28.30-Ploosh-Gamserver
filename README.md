@@ -1,6 +1,6 @@
 # 28.30
 
-thanks luxx (and whoever he got it from) for leaking this <3<br>
+Luxx is a monkey I think idk (:
 
 to use, build on Client \& release configuration.<br>
 
